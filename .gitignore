@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.idea
+
+# Local mock runtime artifacts
+.mock_api.log
+.mock_api.auto.log
+.mock_api.pid
